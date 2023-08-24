@@ -7,8 +7,8 @@ void main()
 	clrscr();
 
 
-	cout<<"220130318007"<<endl;
-	cout<<"Vasu Sapariya"<<end;
+	cout<<"220130318015"<<endl;
+	cout<<"shyam zalavadiya"<<end;
 
 	cout<<"Enter the size of array::";
 	cin>>a[i];
