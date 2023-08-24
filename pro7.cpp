@@ -5,8 +5,8 @@ void main()
 	int p,r,t;
 	clrscr();
 
-	cout<<"220130318007"<<endl;
-	cout<<"sani zalavadiya"<<endl;
+	cout<<"220130318015"<<endl;
+	cout<<"shyam zalavadiya"<<endl;
 
 	cout<<"Enter the principal Amount::";
 	cin>>p;
