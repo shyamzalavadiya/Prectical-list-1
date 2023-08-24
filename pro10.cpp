@@ -5,8 +5,8 @@ void main()
 	int no1,no2,no3;
 	clrscr();
 
-	cout<<"220130318007";
-	cout<<"sani zalavadiya";
+	cout<<"220130318015";
+	cout<<"shyam  zalavadiya";
 
 	cout<<"Enter the 1 number::";
 	cin>>no1;
