@@ -4,8 +4,8 @@ void main()
 {
 	clrscr();
 
-	cout<<"220130328007<<endl;
-	cout<<"sani zalavadiya<<end;
+	cout<<"220130328015<<endl;
+	cout<<"shyamzalavadiya<<end;
 
 
 	cout<<"Hello World";
