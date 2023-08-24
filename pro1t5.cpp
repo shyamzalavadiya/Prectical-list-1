@@ -8,7 +8,7 @@ void main()
 
 
 	cout<<"220130318015"<<endl;
-	cout<<"shyam zalavadiya"<<end;
+	cout<<"shyam zalavadiya "<<end;
 
 	cout<<"Enter the size of array::";
 	cin>>a[i];
